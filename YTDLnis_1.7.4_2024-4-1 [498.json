@@ -1,0 +1,829 @@
+{
+  "app": "YTDLnis_backup",
+  "settings": [
+    {
+      "key": "concurrent_fragments",
+      "value": "3",
+      "type": "Int"
+    },
+    {
+      "key": "skip_updates",
+      "value": "",
+      "type": "String"
+    },
+    {
+      "key": "use_audio_quality",
+      "value": "true",
+      "type": "Boolean"
+    },
+    {
+      "key": "use_cookies",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "ytdlp_source",
+      "value": "stable",
+      "type": "String"
+    },
+    {
+      "key": "format_filter",
+      "value": "ALL",
+      "type": "String"
+    },
+    {
+      "key": "incognito",
+      "value": "true",
+      "type": "Boolean"
+    },
+    {
+      "key": "audio_format",
+      "value": "Default",
+      "type": "String"
+    },
+    {
+      "key": "use_extra_commands",
+      "value": "true",
+      "type": "Boolean"
+    },
+    {
+      "key": "mtime",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "preferred_download_type",
+      "value": "video",
+      "type": "String"
+    },
+    {
+      "key": "subs_lang",
+      "value": "all",
+      "type": "String"
+    },
+    {
+      "key": "sub_format",
+      "value": "srt",
+      "type": "String"
+    },
+    {
+      "key": "force_keyframes",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "use_scheduler",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "last_used_download_type",
+      "value": "video",
+      "type": "String"
+    },
+    {
+      "key": "add_chapters",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "format_id",
+      "value": "",
+      "type": "String"
+    },
+    {
+      "key": "embed_metadata",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "sponsorblock_filters",
+      "value": "[music_offtopic]",
+      "type": "HashSet"
+    },
+    {
+      "key": "write_description",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "format_id_audio",
+      "value": "",
+      "type": "String"
+    },
+    {
+      "key": "file_name_template_audio",
+      "value": "%(uploader)s - %(title)s",
+      "type": "String"
+    },
+    {
+      "key": "embed_thumbnail",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "video_quality",
+      "value": "best",
+      "type": "String"
+    },
+    {
+      "key": "version",
+      "value": "1.7.4",
+      "type": "String"
+    },
+    {
+      "key": "show_terminal",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "nightly_ytdl",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "spl",
+      "value": "1",
+      "type": "Int"
+    },
+    {
+      "key": "proxy",
+      "value": "",
+      "type": "String"
+    },
+    {
+      "key": "retries",
+      "value": "700",
+      "type": "String"
+    },
+    {
+      "key": "swipe_gestures",
+      "value": "true",
+      "type": "Boolean"
+    },
+    {
+      "key": "keep_cache",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "download_card",
+      "value": "true",
+      "type": "Boolean"
+    },
+    {
+      "key": "crop_thumbnail",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "home_recommendations",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "ytdlnis_theme",
+      "value": "Dark",
+      "type": "String"
+    },
+    {
+      "key": "concurrent_downloads",
+      "value": "1",
+      "type": "Int"
+    },
+    {
+      "key": "write_thumbnail",
+      "value": "true",
+      "type": "Boolean"
+    },
+    {
+      "key": "aria2",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "update_app",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "locale",
+      "value": "",
+      "type": "String"
+    },
+    {
+      "key": "write_subtitles",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "search_suggestions",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "quick_download",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "modify_download_card",
+      "value": "[container, adjust_video, schedule, author, adjust_templates, title, url, adjust_audio]",
+      "type": "HashSet"
+    },
+    {
+      "key": "restrict_filenames",
+      "value": "true",
+      "type": "Boolean"
+    },
+    {
+      "key": "update_formats",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "piped_instance",
+      "value": "https://api.piped.projectsegfau.lt",
+      "type": "String"
+    },
+    {
+      "key": "fragment_retries",
+      "value": "50",
+      "type": "String"
+    },
+    {
+      "key": "format_order",
+      "value": "filesize",
+      "type": "String"
+    },
+    {
+      "key": "ytdl-version",
+      "value": "2024.03.10",
+      "type": "String"
+    },
+    {
+      "key": "log_downloads",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "video_codec",
+      "value": "",
+      "type": "String"
+    },
+    {
+      "key": "file_name_template",
+      "value": "%(uploader)s - %(title)s",
+      "type": "String"
+    },
+    {
+      "key": "lastCommandTemplateUsed",
+      "value": "--extract-audio --audio-format mp3 --audio-quality 0 --add-metadata --parse-metadata \"playlist_index:%(track_number)s\" --embed-thumbnail --ppa \"EmbedThumbnail+ffmpeg_o:-c:v mjpeg -vf crop\u003d\\\"\u0027if(gt(ih,iw),iw,ih)\u0027:\u0027if(gt(iw,ih),ih,iw)\u0027\\\"\"",
+      "type": "String"
+    },
+    {
+      "key": "video_format",
+      "value": "Default",
+      "type": "String"
+    },
+    {
+      "key": "metered_networks",
+      "value": "true",
+      "type": "Boolean"
+    },
+    {
+      "key": "start_destination",
+      "value": "Home",
+      "type": "String"
+    },
+    {
+      "key": "update_beta",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "theme_accent",
+      "value": "monochrome",
+      "type": "String"
+    },
+    {
+      "key": "high_contrast",
+      "value": "true",
+      "type": "Boolean"
+    },
+    {
+      "key": "auto_update_ytdlp",
+      "value": "true",
+      "type": "Boolean"
+    },
+    {
+      "key": "formats_source",
+      "value": "yt-dlp",
+      "type": "String"
+    },
+    {
+      "key": "use_sponsorblock",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "embed_subtitles",
+      "value": "false",
+      "type": "Boolean"
+    },
+    {
+      "key": "search_engine",
+      "value": "ytsearchmusic",
+      "type": "String"
+    },
+    {
+      "key": "remember_download_type",
+      "value": "false",
+      "type": "Boolean"
+    }
+  ],
+  "downloads": [],
+  "queued": [],
+  "cancelled": [
+    {
+      "SaveThumb": true,
+      "allFormats": [
+        {
+          "acodec": "none",
+          "asr": "",
+          "ext": "mp4",
+          "encoding": "",
+          "filesize": 878060062,
+          "format_id": "hls-3",
+          "format_note": "1280x720",
+          "fps": "59.94",
+          "language": "",
+          "tbr": "1670.402k",
+          "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_t357c44a4d5b35b3566636729d35123f9_r669753506.m3u8?useMezzanine\u003dtrue",
+          "vcodec": "avc1.4d4020"
+        },
+        {
+          "acodec": "none",
+          "asr": "",
+          "ext": "mp4",
+          "encoding": "",
+          "filesize": 500066276,
+          "format_id": "hls-2",
+          "format_note": "852x480",
+          "fps": "59.94",
+          "language": "",
+          "tbr": "951.315k",
+          "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_t357c44a4d5b35b3566636729d35123f9_r669742342.m3u8?useMezzanine\u003dtrue",
+          "vcodec": "avc1.4d401f"
+        },
+        {
+          "acodec": "none",
+          "asr": "",
+          "ext": "mp4",
+          "encoding": "",
+          "filesize": 365685505,
+          "format_id": "hls-1",
+          "format_note": "640x360",
+          "fps": "59.94",
+          "language": "",
+          "tbr": "695.672k",
+          "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_t357c44a4d5b35b3566636729d35123f9_r669739850.m3u8?useMezzanine\u003dtrue",
+          "vcodec": "avc1.4d401f"
+        },
+        {
+          "acodec": "none",
+          "asr": "",
+          "ext": "mp4",
+          "encoding": "",
+          "filesize": 317977317,
+          "format_id": "hls-0",
+          "format_note": "426x240",
+          "fps": "59.94",
+          "language": "",
+          "tbr": "604.913k",
+          "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_t357c44a4d5b35b3566636729d35123f9_r669739680.m3u8?useMezzanine\u003dtrue",
+          "vcodec": "avc1.42c01e"
+        },
+        {
+          "acodec": "",
+          "asr": "",
+          "ext": "mp4",
+          "encoding": "",
+          "filesize": 0,
+          "format_id": "hls-group_audio-original",
+          "format_note": "ORIGINAL AUDIO",
+          "fps": "",
+          "language": "en-e81e40ed",
+          "tbr": "",
+          "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_te81e40ed0f0a27b2c945b8bb2714cb6a_r669737187.m3u8?useMezzanine\u003dtrue",
+          "vcodec": "none"
+        }
+      ],
+      "audioPreferences": {
+        "cropThumb": false,
+        "embedThumb": false,
+        "splitByChapters": false,
+        "sponsorBlockFilters": [
+          "music_offtopic"
+        ]
+      },
+      "author": "The Alex Jones Show",
+      "container": "",
+      "customFileNameTemplate": "%(uploader)s - %(title)s",
+      "downloadPath": "/storage/emulated/0/Download/YTDLnis/Video",
+      "downloadSections": "",
+      "downloadSize": "",
+      "downloadStartTime": 0,
+      "duration": "1:08:26",
+      "extraCommands": "",
+      "format": {
+        "acodec": "none",
+        "asr": "",
+        "ext": "mp4",
+        "encoding": "",
+        "filesize": 878060062,
+        "format_id": "hls-3",
+        "format_note": "1280x720",
+        "fps": "59.94",
+        "language": "",
+        "tbr": "1670.402k",
+        "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_t357c44a4d5b35b3566636729d35123f9_r669753506.m3u8?useMezzanine\u003dtrue",
+        "vcodec": "avc1.4d4020"
+      },
+      "id": 473,
+      "logID": 0,
+      "playlistTitle": "",
+      "playlistURL": "",
+      "status": "Cancelled",
+      "thumb": "https://assets.infowarsmedia.com/images/8428bd9a-a3de-4c86-9522-4d2fcc1eb276-large.jpg",
+      "title": "Alex Jones Debates The Butt Plug Rabb",
+      "type": "video",
+      "url": "https://banned.video/watch?id\u003d6604852ab0f994f1e49e1aeb",
+      "videoPreferences": {
+        "addChapters": false,
+        "alsoDownloadAsAudio": false,
+        "audioFormatIDs": [
+          "hls-group_audio-original"
+        ],
+        "embedSubs": false,
+        "removeAudio": false,
+        "splitByChapters": false,
+        "sponsorBlockFilters": [
+          "music_offtopic"
+        ],
+        "subsLanguages": "all",
+        "writeAutoSubs": false,
+        "writeSubs": false
+      },
+      "website": "BannedVideo"
+    },
+    {
+      "SaveThumb": true,
+      "allFormats": [],
+      "audioPreferences": {
+        "cropThumb": false,
+        "embedThumb": false,
+        "splitByChapters": false,
+        "sponsorBlockFilters": [
+          "music_offtopic"
+        ]
+      },
+      "author": "",
+      "container": "",
+      "customFileNameTemplate": "%(uploader)s - %(title)s",
+      "downloadPath": "/storage/emulated/0/Download/YTDLnis/Video",
+      "downloadSections": "",
+      "downloadSize": "",
+      "downloadStartTime": 0,
+      "duration": "",
+      "extraCommands": "",
+      "format": {
+        "acodec": "m4a|mp4a|aac",
+        "asr": "",
+        "ext": "Default",
+        "encoding": "",
+        "filesize": 0,
+        "format_id": "best",
+        "format_note": "best",
+        "fps": "",
+        "language": "",
+        "tbr": "",
+        "url": "",
+        "vcodec": "Predeterminado"
+      },
+      "id": 422,
+      "playlistTitle": "",
+      "playlistURL": "",
+      "status": "Cancelled",
+      "thumb": "",
+      "title": "",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v\u003dZLE7p7jb9pY",
+      "videoPreferences": {
+        "addChapters": false,
+        "alsoDownloadAsAudio": false,
+        "audioFormatIDs": [],
+        "embedSubs": false,
+        "removeAudio": false,
+        "splitByChapters": false,
+        "sponsorBlockFilters": [
+          "music_offtopic"
+        ],
+        "subsLanguages": "all",
+        "writeAutoSubs": false,
+        "writeSubs": false
+      },
+      "website": ""
+    },
+    {
+      "SaveThumb": true,
+      "allFormats": [],
+      "audioPreferences": {
+        "cropThumb": false,
+        "embedThumb": false,
+        "splitByChapters": false,
+        "sponsorBlockFilters": [
+          "music_offtopic"
+        ]
+      },
+      "author": "Wendigoon",
+      "container": "",
+      "customFileNameTemplate": "%(uploader)s - %(title)s",
+      "downloadPath": "/storage/emulated/0/Download/YTDLnis/Video",
+      "downloadSections": "",
+      "downloadSize": "",
+      "downloadStartTime": 0,
+      "duration": "23:12",
+      "extraCommands": "",
+      "format": {
+        "acodec": "m4a|mp4a|aac",
+        "asr": "",
+        "ext": "Default",
+        "encoding": "",
+        "filesize": 0,
+        "format_id": "best",
+        "format_note": "best",
+        "fps": "",
+        "language": "",
+        "tbr": "",
+        "url": "",
+        "vcodec": "Predeterminado"
+      },
+      "id": 421,
+      "playlistTitle": "",
+      "playlistURL": "",
+      "status": "Cancelled",
+      "thumb": "https://i.ytimg.com/vi/-r_SIhqC3qs/hqdefault.jpg",
+      "title": "The Story of the 38 Minute War",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v\u003d-r_SIhqC3qs",
+      "videoPreferences": {
+        "addChapters": false,
+        "alsoDownloadAsAudio": false,
+        "audioFormatIDs": [],
+        "embedSubs": false,
+        "removeAudio": false,
+        "splitByChapters": false,
+        "sponsorBlockFilters": [
+          "music_offtopic"
+        ],
+        "subsLanguages": "all",
+        "writeAutoSubs": false,
+        "writeSubs": false
+      },
+      "website": "youtube"
+    }
+  ],
+  "errored": [
+    {
+      "SaveThumb": true,
+      "allFormats": [
+        {
+          "acodec": "none",
+          "asr": "",
+          "ext": "mp4",
+          "encoding": "",
+          "filesize": 878060062,
+          "format_id": "hls-3",
+          "format_note": "1280x720",
+          "fps": "59.94",
+          "language": "",
+          "tbr": "1670.402k",
+          "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_t357c44a4d5b35b3566636729d35123f9_r669753506.m3u8?useMezzanine\u003dtrue",
+          "vcodec": "avc1.4d4020"
+        },
+        {
+          "acodec": "none",
+          "asr": "",
+          "ext": "mp4",
+          "encoding": "",
+          "filesize": 500066276,
+          "format_id": "hls-2",
+          "format_note": "852x480",
+          "fps": "59.94",
+          "language": "",
+          "tbr": "951.315k",
+          "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_t357c44a4d5b35b3566636729d35123f9_r669742342.m3u8?useMezzanine\u003dtrue",
+          "vcodec": "avc1.4d401f"
+        },
+        {
+          "acodec": "none",
+          "asr": "",
+          "ext": "mp4",
+          "encoding": "",
+          "filesize": 365685505,
+          "format_id": "hls-1",
+          "format_note": "640x360",
+          "fps": "59.94",
+          "language": "",
+          "tbr": "695.672k",
+          "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_t357c44a4d5b35b3566636729d35123f9_r669739850.m3u8?useMezzanine\u003dtrue",
+          "vcodec": "avc1.4d401f"
+        },
+        {
+          "acodec": "none",
+          "asr": "",
+          "ext": "mp4",
+          "encoding": "",
+          "filesize": 317977317,
+          "format_id": "hls-0",
+          "format_note": "426x240",
+          "fps": "59.94",
+          "language": "",
+          "tbr": "604.913k",
+          "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_t357c44a4d5b35b3566636729d35123f9_r669739680.m3u8?useMezzanine\u003dtrue",
+          "vcodec": "avc1.42c01e"
+        },
+        {
+          "acodec": "",
+          "asr": "",
+          "ext": "mp4",
+          "encoding": "",
+          "filesize": 0,
+          "format_id": "hls-group_audio-original",
+          "format_note": "ORIGINAL AUDIO",
+          "fps": "",
+          "language": "en-e81e40ed",
+          "tbr": "",
+          "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_te81e40ed0f0a27b2c945b8bb2714cb6a_r669737187.m3u8?useMezzanine\u003dtrue",
+          "vcodec": "none"
+        }
+      ],
+      "audioPreferences": {
+        "cropThumb": false,
+        "embedThumb": false,
+        "splitByChapters": false,
+        "sponsorBlockFilters": [
+          "music_offtopic"
+        ]
+      },
+      "author": "The Alex Jones Show",
+      "container": "",
+      "customFileNameTemplate": "%(uploader)s - %(title)s",
+      "downloadPath": "/storage/emulated/0/Download/YTDLnis/Video",
+      "downloadSections": "",
+      "downloadSize": "",
+      "downloadStartTime": 0,
+      "duration": "1:08:26",
+      "extraCommands": "",
+      "format": {
+        "acodec": "none",
+        "asr": "",
+        "ext": "mp4",
+        "encoding": "",
+        "filesize": 365685505,
+        "format_id": "hls-1",
+        "format_note": "640x360",
+        "fps": "59.94",
+        "language": "",
+        "tbr": "695.672k",
+        "url": "https://bytehighway.net/3302f642c1c4d1fd088503818ab084cc/manifest/stream_t357c44a4d5b35b3566636729d35123f9_r669739850.m3u8?useMezzanine\u003dtrue",
+        "vcodec": "avc1.4d401f"
+      },
+      "id": 472,
+      "logID": 26,
+      "playlistTitle": "",
+      "playlistURL": "",
+      "status": "Error",
+      "thumb": "https://assets.infowarsmedia.com/images/8428bd9a-a3de-4c86-9522-4d2fcc1eb276-large.jpg",
+      "title": "Alex Jones Debates The Butt Plug Rabb",
+      "type": "video",
+      "url": "https://banned.video/watch?id\u003d6604852ab0f994f1e49e1aeb",
+      "videoPreferences": {
+        "addChapters": false,
+        "alsoDownloadAsAudio": false,
+        "audioFormatIDs": [
+          "hls-group_audio-original"
+        ],
+        "embedSubs": false,
+        "removeAudio": false,
+        "splitByChapters": false,
+        "sponsorBlockFilters": [
+          "music_offtopic"
+        ],
+        "subsLanguages": "all",
+        "writeAutoSubs": false,
+        "writeSubs": false
+      },
+      "website": "BannedVideo"
+    },
+    {
+      "SaveThumb": true,
+      "allFormats": [],
+      "audioPreferences": {
+        "cropThumb": false,
+        "embedThumb": false,
+        "splitByChapters": false,
+        "sponsorBlockFilters": [
+          "music_offtopic"
+        ]
+      },
+      "author": "Wendigoon",
+      "container": "",
+      "customFileNameTemplate": "%(uploader)s - %(title)s",
+      "downloadPath": "/storage/emulated/0/Download/YTDLnis/Video",
+      "downloadSections": "",
+      "downloadSize": "",
+      "downloadStartTime": 0,
+      "duration": "52:24",
+      "extraCommands": "",
+      "format": {
+        "acodec": "m4a|mp4a|aac",
+        "asr": "",
+        "ext": "Default",
+        "encoding": "",
+        "filesize": 0,
+        "format_id": "best",
+        "format_note": "best",
+        "fps": "",
+        "language": "",
+        "tbr": "",
+        "url": "",
+        "vcodec": "Predeterminado"
+      },
+      "id": 423,
+      "logID": 25,
+      "playlistTitle": "",
+      "playlistURL": "",
+      "status": "Error",
+      "thumb": "https://i.ytimg.com/vi_webp/-eBu96ET6-0/maxresdefault.webp",
+      "title": "The SCP Iceberg Explained (COGNITOHAZARD)",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v\u003d-eBu96ET6-0",
+      "videoPreferences": {
+        "addChapters": false,
+        "alsoDownloadAsAudio": false,
+        "audioFormatIDs": [],
+        "embedSubs": false,
+        "removeAudio": false,
+        "splitByChapters": false,
+        "sponsorBlockFilters": [
+          "music_offtopic"
+        ],
+        "subsLanguages": "all",
+        "writeAutoSubs": false,
+        "writeSubs": false
+      },
+      "website": "Youtube"
+    }
+  ],
+  "saved": [],
+  "cookies": [],
+  "templates": [
+    {
+      "content": "--extract-audio --audio-format mp3 --audio-quality 0 --add-metadata --parse-metadata \"playlist_index:%(track_number)s\" --embed-thumbnail --ppa \"EmbedThumbnail+ffmpeg_o:-c:v mjpeg -vf crop\u003d\\\"\u0027if(gt(ih,iw),iw,ih)\u0027:\u0027if(gt(iw,ih),ih,iw)\u0027\\\"\" -o \u0027%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s\u0027",
+      "id": 6,
+      "title": "albummmm",
+      "useAsExtraCommand": false,
+      "useAsExtraCommandAudio": false,
+      "useAsExtraCommandVideo": false
+    },
+    {
+      "content": "--extract-audio --audio-format mp3 --audio-quality 0 --add-metadata --parse-metadata \"playlist_index:%(track_number)s\" --embed-thumbnail --ppa \"EmbedThumbnail+ffmpeg_o:-c:v mjpeg -vf crop\u003d\\\"\u0027if(gt(ih,iw),iw,ih)\u0027:\u0027if(gt(iw,ih),ih,iw)\u0027\\\"\"",
+      "id": 3,
+      "title": "mp3",
+      "useAsExtraCommand": false,
+      "useAsExtraCommandAudio": false,
+      "useAsExtraCommandVideo": false
+    },
+    {
+      "content": "--skip-download --write-subs --sub-lang es-en",
+      "id": 2,
+      "title": "subtitulos",
+      "useAsExtraCommand": false,
+      "useAsExtraCommandAudio": true,
+      "useAsExtraCommandVideo": true
+    },
+    {
+      "content": "--skip-download --write-thumbnail --convert-thumbnails png",
+      "id": 1,
+      "title": "miniatura",
+      "useAsExtraCommand": false,
+      "useAsExtraCommandAudio": true,
+      "useAsExtraCommandVideo": true
+    }
+  ],
+  "shortcuts": [],
+  "search_history": [],
+  "observe_sources": []
+}

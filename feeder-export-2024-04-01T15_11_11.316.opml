@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1" xmlns:feeder="https://nononsenseapps.com/feeder">
+  <head>
+    <title>
+      Feeder
+    </title>
+  </head>
+  <body>
+    <outline title="Cath" text="Cath">
+      <outline feeder:notify="false" feeder:imageUrl="https://legiochristi.com/favicon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Legio Christi" text="Legio Christi" type="rss" xmlUrl="https://legiochristi.com/rss"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://forum.legiochristi.com/uploads/default/optimized/1X/5f9b5875859c222aea73724ff1eb1b3c531f7ce1_2_180x180.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Legio Christi Forums - Latest topics" text="Legio Christi Forums - Latest topics" type="rss" xmlUrl="https://forum.legiochristi.com/latest.rss"/>
+      <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Pints with Aquinas" text="Pints with Aquinas" type="rss" xmlUrl="https://pintswithaquinas.com/feed"/>
+    </outline>
+    <outline title="Musica" text="Musica">
+      <outline feeder:notify="false" feeder:imageUrl="https://musiquitaparagentechula.blogspot.com/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Musiquita para gente chula" text="Musiquita para gente chula" type="rss" xmlUrl="https://musiquitaparagentechula.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://stahlfabrik.blogspot.com/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="WET DREAMS" text="WET DREAMS" type="rss" xmlUrl="https://stahlfabrik.blogspot.com/feeds/posts/default?alt=rss"/>
+    </outline>
+    <outline title="Niggas" text="Niggas">
+      <outline feeder:notify="false" feeder:imageUrl="https://labibliotecadenadie.blogspot.com/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="LA BIBLIOTECA DE NADIE" text="LA BIBLIOTECA DE NADIE" type="rss" xmlUrl="https://labibliotecadenadie.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://notrelated.xyz/thumbs/S01E00.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Not Related! A Big-Braned Podcast" text="Not Related! A Big-Braned Podcast" type="rss" xmlUrl="https://notrelated.xyz/rss"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fzerophilosophy.substack.com%2Fimg%2Fsubstack.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Outsideness Newsletter" text="Outsideness Newsletter" type="rss" xmlUrl="https://zerophilosophy.substack.com/feed/"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F591d5b6f-589e-45d2-9e55-79577a5416e1_400x400.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="The New Normal" text="The New Normal" type="rss" xmlUrl="https://michaelpsenger.substack.com/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Febe5d0fb-0da6-4ec9-8937-c2c08e12a8ea_1084x1084.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="ICENI Bulletins" text="ICENI Bulletins" type="rss" xmlUrl="https://iceni.substack.com/feed"/>
+      <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="CyberCult" text="CyberCult" type="rss" xmlUrl="https://cybercultnzicd.tumblr.com/rss"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://tube.tchncs.de/lazy-static/avatars/1d93c093-3c90-4510-9f69-20f6a9ef2e87.jpg" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Psicologia Revolucionaria" text="Psicologia Revolucionaria" type="rss" xmlUrl="https://tube.tchncs.de/feeds/videos.xml?videoChannelId=4572"/>
+    </outline>
+    <outline title="Noticias" text="Noticias">
+      <outline feeder:notify="false" feeder:imageUrl="https://larazon.pe/wp-content/uploads/2017/11/Favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="La Razón" text="La Razón" type="rss" xmlUrl="https://larazon.pe/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://wayka.pe/wp-content/uploads/2017/09/cropped-WRedonda-32x32.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Wayka.pe" text="Wayka.pe" type="rss" xmlUrl="https://wayka.pe/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://www.zerohedge.com/favicons/apple-touch-icon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="ZeroHedge News" text="ZeroHedge News" type="rss" xmlUrl="http://feeds.feedburner.com/zerohedge/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="http://soylentnews.org/images/logo.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="SoylentNews" text="SoylentNews" type="rss" xmlUrl="http://soylentnews.org/index.rss"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://nitter.privacydev.net/pic/pbs.twimg.com%2Fprofile_images%2F898153945721339904%2FOFVCkPfR_400x400.jpg" feeder:fullTextByDefault="true" feeder:openArticlesWith="0" feeder:alternateId="false" title="Disclose.tv / @disclosetv" text="Disclose.tv / @disclosetv" type="rss" xmlUrl="http://farside.link/nitter/disclosetv/rss"/>
+    </outline>
+    <outline title="Odysee" text="Odysee">
+      <outline feeder:notify="false" feeder:imageUrl="https://thumbnails.lbry.com/UC7YOGHUfC1Tb6E4pudI9STA" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Mental Outlaw on Odysee" text="Mental Outlaw on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@AlphaNerd:8"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://thumbnails.lbry.com/UC3cpN6gcJQqcCM6mxRUo_dA" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Wendigoon on Odysee" text="Wendigoon on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@Wendigoon:a"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://thumbnails.lbry.com/UC3x3gDTqUYy_bFZWS-U_mZQ" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Sensus Fidelium on Odysee" text="Sensus Fidelium on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@SensusFidelium:c"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://thumbs.odycdn.com/29d9211d709501c4537332c253f68ce9.webp" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Periodistas por la verdad on Odysee" text="Periodistas por la verdad on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@periodistasporlaverdad:5"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://thumbs.odycdn.com/3b2253eeee8d0a915aae5e4fcb9a0de3.jpg" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Luke Smith on Odysee" text="Luke Smith on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@Luke:7"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://thumbnails.lbry.com/UCgFP46yVT-GG4o1TgXn-04Q" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="China Uncensored on Odysee" text="China Uncensored on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@ChinaUncensored:0"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://spee.ch/7/09984d978497659e.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Gravy on Odysee" text="Gravy on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@Gravy:7"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://thumbnails.lbry.com/UCfE7AC5XZ0fkfgImkgmnF7g" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Gott Mit Uns on Odysee" text="Gott Mit Uns on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@Gott_mit_uns:8"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://spee.ch/d/02009296b8dd086e.jpg" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="GhostPolitics Official Channel on Odysee" text="GhostPolitics Official Channel on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@GhostPolitics:f"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://thumbnails.lbry.com/UCiRiQGCHGjDLT9FQXFW0I3A" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Academy of Ideas on Odysee" text="Academy of Ideas on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@academyofideas:3"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://thumbnails.lbry.com/UC1KmNKYC1l0stjctkGswl6g" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="After Skool on Odysee" text="After Skool on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@AfterSkool:7"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://thumbnails.lbry.com/UC_7vFlErTHxVD-IFNB-BFCg" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="America Uncovered on Odysee" text="America Uncovered on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@AmericaUncovered:7"/>
+    </outline>
+    <outline title="social" text="social">
+      <outline feeder:notify="false" feeder:imageUrl="https://lukesmith.xyz/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Luke&apos;s Webpage" text="Luke&apos;s Webpage" type="rss" xmlUrl="https://lukesmith.xyz/index.xml"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://videos.lukesmith.xyz/lazy-static/avatars/12a11edf-f3f8-43d8-b7c3-9866189ab2c4.webp" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Luke Smith - Peertube" text="Luke Smith - Peertube" type="rss" xmlUrl="https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2"/>
+    </outline>
+    <outline title="Software" text="Software">
+      <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="suckless.org news" text="suckless.org news" type="rss" xmlUrl="https://suckless.org/atom.xml"/>
+    </outline>
+    <feeder:settings>
+      <feeder:setting key="pref_readaloud_detect_lang" value="false"/>
+      <feeder:setting key="pref_show_fab" value="false"/>
+      <feeder:setting key="prefs_filter_recently_read" value="true"/>
+      <feeder:setting key="prefs_list_show_only_titles" value="true"/>
+      <feeder:setting key="pref_sync_freq" value="-1"/>
+      <feeder:setting key="pref_added_feeder_news" value="true"/>
+      <feeder:setting key="prefs_filter_saved" value="true"/>
+      <feeder:setting key="pref_open_links_with" value="2"/>
+      <feeder:setting key="pref_img_show_thumbnails" value="false"/>
+      <feeder:setting key="pref_feed_item_style" value="SUPER_COMPACT"/>
+      <feeder:setting key="prefs_filter_read" value="true"/>
+    </feeder:settings>
+  </body>
+</opml>
