@@ -1,0 +1,61 @@
+
+Usage:
+
+nchat [OPTION]
+
+Command-line Options:
+
+-d, --confdir <DIR>    use a different directory than ~/.nchat
+-e, --verbose          enable verbose logging
+-ee, --extra-verbose   enable extra verbose logging
+-h, --help             display this help and exit
+-k, --keydump          key code dump mode
+-m, --devmode          developer mode
+-s, --setup            set up chat protocol account
+-v, --version          output version information and exit
+-x, --export <DIR>     export message cache to specified dir
+
+Interactive Commands:
+
+PageDn      history next page
+PageUp      history previous page
+Tab         next chat
+Sh-Tab      previous chat
+Ctrl-f      jump to unread chat
+Ctrl-g      toggle show help bar
+Ctrl-l      toggle show contact list
+Ctrl-n      search contacts
+Ctrl-p      toggle show top bar
+Ctrl-q      quit
+Ctrl-s      insert emoji
+Ctrl-t      send file
+Ctrl-x      send message
+Ctrl-y      toggle show emojis
+KeyUp       select message
+
+Interactive Commands for Selected Message:
+
+Ctrl-d      delete selected message
+Ctrl-r      download attached file
+Ctrl-v      open/view attached file
+Ctrl-w      open link
+Ctrl-x      reply to selected message
+Ctrl-z      edit selected message
+
+Interactive Commands for Text Input:
+
+Ctrl-a      move cursor to start of line
+Ctrl-c      clear input buffer
+Ctrl-e      move cursor to end of line
+Ctrl-k      delete from cursor to end of line
+Ctrl-u      delete from cursor to start of line
+Alt-Left    move cursor backward one word
+Alt-Right   move cursor forward one word
+Alt-Backsp  delete previous word
+Alt-Delete  delete next word
+Alt-e       external editor compose
+Alt-s       external spell check
+Alt-c       copy
+Alt-v       paste
+Alt-w       external message viewer
+Alt-x       cut
